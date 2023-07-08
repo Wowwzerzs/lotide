@@ -1,10 +1,10 @@
 // Helper function to compare if two arrays are equal
-const eqArrays = require('./eqArrays')
+const eqArrays = require('./eqArrays');
 
 // Helper function to assert if two arrays are equal
 const assertArraysEqual = require('./assertArraysEqual');
 
-const middle = function (arr) {
+const middle = function(arr) {
   const length = arr.length; // Get the length of the array
 
   if (length <= 2) {

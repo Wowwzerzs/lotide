@@ -1,8 +1,8 @@
 {
-  "name": "lotide",
+  "name": "@tahamulla/lotide",
   "version": "1.0.0",
-  "description": "",
-  "main": "assertArraysEqual.js",
+  "description": "The Lotide library is a comprehensive collection of utility functions built for JavaScript. It aims to provide a lightweight and modular set of tools that simplify common programming tasks and enhance the functionality of JavaScript applications. The library embraces the philosophy of functional programming and promotes code readability, reusability, and maintainability.",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/Wowwzerzs/lotide.git"
   },
-  "author": "",
+  "author": "Taha Mulla",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Wowwzerzs/lotide/issues"
